@@ -1,0 +1,23 @@
+{
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Online Corner 7",
+  "short_name": "Online Corner",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "en",
+  "description": "Online Class made easier with Online Corner",
+  "theme_color": "#e4584d",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh4.googleusercontent.com/tWIyBbhIa5ybajRxVsTA0cbojuDmPLijR2R6ioT3CA740uhP_eyzU7B0TGUORFMN6fL7FAxpWig3qbQiTs3GsIGe_3WBJo4XA4VVT8y95HXhScLB5LcZrkxfuA3qsGTsB2Ump2RR",
+      "type": "image/png",
+      "sizes": "1200x1200"
+    }
+  ],
+  "screenshots": [],
+  "orientation": "any",
+  "categories": [],
+  "shortcuts": []
+}
