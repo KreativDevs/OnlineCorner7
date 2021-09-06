@@ -13,7 +13,12 @@
     {
       "src": "images/192.jpg",
       "type": "image/png",
-      "sizes": "1200x1200"
+      "sizes": "192x192"
+    }
+    {
+      "src": "images/512.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "screenshots": [],
